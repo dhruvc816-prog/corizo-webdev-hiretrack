@@ -136,12 +136,12 @@ Displays all job applications in a table with company logo, role, applied date, 
 ### 2. Add / Edit Application Form
 A single form used for both adding a new application and editing an existing one. On edit, the form is pre-filled with the selected application's data.
 
-![Add/Edit Form](screenshots/form-page.png)
+![Add/Edit Form](hiretrack/screenshots/form-page.png)
 
 ### 3. Dashboard
 Shows total applications, status-wise counts (Interview, Offer, Rejected), and a pie chart visualizing the distribution of application statuses using Chart.js.
 
-![Dashboard](screenshots/dashboard-page.png)
+![Dashboard](hiretrack/screenshots/dashboard-page.png)
 
 ### How It Works (Flow)
 
