@@ -131,7 +131,7 @@ http://localhost:8080/index.html
 ### 1. Applications List Page
 Displays all job applications in a table with company logo, role, applied date, and status badge. Users can add, edit, or delete applications from here.
 
-![Applications List](screenshots/list-page.png)
+![Applications List](hiretrack/screenshots/list-page.png)
 
 ### 2. Add / Edit Application Form
 A single form used for both adding a new application and editing an existing one. On edit, the form is pre-filled with the selected application's data.
